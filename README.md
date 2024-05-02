@@ -1,16 +1,50 @@
-# calculadora
+# Calculadora iPhone
 
-A new Flutter project.
+Este é um aplicativo de calculadora básico para dispositivos iOS, desenvolvido em Flutter. O aplicativo é estilizado para se parecer com a calculadora do iPhone.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adição, subtração, multiplicação e divisão de números.
+- Operação de porcentagem.
+- Mudança de sinal para números positivos e negativos.
+- Botão de limpar (AC) para limpar a entrada e reiniciar as operações.
+- Cálculo automático quando o botão "=" é pressionado.
 
-A few resources to get you started if this is your first Flutter project:
+## Capturas de Tela
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](screenshots/screenshot1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação
+
+1. Certifique-se de ter o Flutter instalado em seu sistema. Se não, você pode seguir as [instruções de instalação](https://flutter.dev/docs/get-started/install).
+2. Clone este repositório:
+
+    ```
+    git clone https://github.com/seu-usuario/calculadora-iphone.git
+    ```
+
+3. Entre no diretório do projeto:
+
+    ```
+    cd calculadora-iphone
+    ```
+
+4. Execute o aplicativo:
+
+    ```
+    flutter run
+    ```
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga estas etapas:
+
+1. Fork este repositório.
+2. Crie sua própria branch: `git checkout -b feature/nova-feature`.
+3. Faça suas alterações e commit: `git commit -am 'Adiciona nova feature'`.
+4. Envie para sua branch: `git push origin feature/nova-feature`.
+5. Envie uma solicitação pull.
+
+## Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
