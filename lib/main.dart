@@ -79,9 +79,7 @@ class _CalculadoraIphoneState extends State<CalculadoraIphone> {
                   Expanded(child: calcbutton('AC', Colors.grey, Colors.black)),
                   Expanded(child: calcbutton('+/-', Colors.grey, Colors.black)),
                   Expanded(child: calcbutton('%', Colors.grey, Colors.black)),
-                  Expanded(
-                      child:
-                          calcbutton('/', Colors.amber.shade700, Colors.white)),
+                  Expanded(child: calcbutton('/', Colors.amber.shade700, Colors.white)),
                 ],
               ),
               const SizedBox(
