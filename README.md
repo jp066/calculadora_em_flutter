@@ -12,7 +12,7 @@ Este é um aplicativo de calculadora básico para dispositivos iOS, desenvolvido
 
 ## Capturas de Tela
 
-![](https://github.com/jp066/calculadora_em_flutter/assets/161849819/4265037f-9d23-4b7f-bd07-4740e6a42cfe)
+![](https://github.com/jp066/calculadora_em_flutter/assets/161849819/205afaa5-1556-45ef-a4d9-de7ab02eb067)
 
 
 ## Instalação
